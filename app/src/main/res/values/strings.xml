@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art1">Perburuan Rusa</string>
+    <string name="artist1">Raden Saleh</string>
+    <string name="year1">1946</string>
+    <string name="art2">Badai Pasti Berlalu</string>
+    <string name="artist2">Affandi</string>
+    <string name="year2">1971</string>
+    <string name="art3">Balinese Procession</string>
+    <string name="artist3">Lee Man Fong</string>
+    <string name="year3">1941</string>
+</resources>
